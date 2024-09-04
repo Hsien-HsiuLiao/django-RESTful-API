@@ -10,4 +10,6 @@ $ python3 -m pip install Pillow
 
 create new product
 
-curl  -X POST http:/localhost:8000/api/v1/products/new -d price=1.00 -d name="new product" -d description="hello"
+curl -X POST http:/localhost:8000/api/v1/products/new -d price=1.00 -d name="new product" -d description="hello"
+
+curl -X DELETE http://localhost:8000/api/v1/products/5/destroy
