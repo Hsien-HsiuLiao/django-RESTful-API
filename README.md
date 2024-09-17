@@ -17,3 +17,12 @@ curl -X DELETE http://localhost:8000/api/v1/products/5/destroy
 run tests
 
 manage.py test
+
+reference:
+
+https://docs.djangoproject.com/en/5.1/ref/models/options/
+
+https://www.django-rest-framework.org/tutorial/quickstart/#serializers
+
+https://www.django-rest-framework.org/api-guide/testing/
+
