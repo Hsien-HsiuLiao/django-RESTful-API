@@ -26,3 +26,4 @@ https://www.django-rest-framework.org/tutorial/quickstart/#serializers
 
 https://www.django-rest-framework.org/api-guide/testing/
 
+todo: model for songs, follow products as example
